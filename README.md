@@ -52,7 +52,8 @@ p {
 
 ## About Me
 
-my nanme is patrick chiok zechariah . i live in brussels belgium Ixelles
+- my name is patrick chiok zechariah. i'm from south sudan, and i live in brussels belgium Ixelles. 
+  for more infromation about me, please click the links below
 
 - [email-Adress](av-hergé-21/3-1050-brussels)
 
