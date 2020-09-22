@@ -13,7 +13,7 @@ _contribute to help the world, and solve the problems_.
 
 "I want to learn, and i want to build " i'm really happy for **_HYF community_** for their support, and that they're part of **my foundation**, and now i continue to learn the new techniques and tools in web development, i can feel it like fun to me ,i'd even forgot my lunches :smile::smiley::joy:.
 
-### Basics techniques
+### Basics techniques :green_heart:
 
 - markdown
 - CSS
@@ -23,7 +23,7 @@ _contribute to help the world, and solve the problems_.
 
 ---
 
-#### Example to the Reference I learnt
+#### Example to the Reference I learnt :v:
 
 ```html
 <p>learnhtmlcode</p>
@@ -53,7 +53,7 @@ p {
 ## About Me
 
 - my name is patrick chiok zechariah. i'm from south sudan, and i live in brussels belgium Ixelles. 
-  for more infromation about me, please click the links below
+  for more infromation about me, please click the links below :point_down: .
 
 - [email-Adress](av-hergé-21/3-1050-brussels)
 
