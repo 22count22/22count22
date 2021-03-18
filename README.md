@@ -26,7 +26,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://22count22.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ZChiok)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chiohmathoat/)
-
+[![Facebook Badge](https://img.shields.io/badge/-Faceebook-405fe4?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007519815651)
 
 
 ## gratitude  feeling.
@@ -188,19 +188,21 @@
 
 ---
 
-#### Technology
+### Here are some quote.
+
+#### [Technology](https://home.hackyourfuture.be/)
 
 The number one benefit of information technology is that it empowers people to do what they want to do. It lets people be creative. It lets people be productive. It lets people learn things they didn't think they could learn before, and so in a sense it is all about potential.
 
-#### Education
+#### [Education](https://hackyourfuture.be/)
 
 most of us end up with no more than five or ten  people who remember us. teachers have thousands of people who remember them for the rest of their life.
 
-#### Life
+#### [Life](https://www.reddit.com/)
 
 Winning is great, sure, but if you're really going to do something in life, the secret is learning how to lose nobody goes undefeated all the time. if you can pick up after a  crushing defeat, and go on to win again, you are going to be a champion someday.
 
-#### Dream
+#### [Dream](https://hackyourfuture.be/program)
 
 We all have dreams. But in order to make dreams come into reality, it takes an awful lot of determination, dedication, self-discipline, and effort.
 
