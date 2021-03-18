@@ -26,12 +26,12 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://22count22.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ZChiok)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chiohmathoat/)
-[![Facebook Badge](https://img.shields.io/badge/-Faceebook-405fe4?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007519815651)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-405fe4?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007519815651)
 
 
 ## gratitude  feeling.
 
-"I want to learn, and i want to build " i'm really happy for **[_HYF community_](https://hackyourfuture.be)** for their support.  they're part of **my foundation**, and now I begin to learn the new techniques and tools in web development. learn new skill to me I feel it like having a fun,i'd even forgot my lunches :smile::smiley::joy:
+"I want to learn, and I want to build " I'm really happy for **[_HYF community_](https://hackyourfuture.be)** for their support,  they're part of **my foundation**. now I begin to learn a new techniques and tools in web development. learning a new skill to me I feel it like having a fun, I'd even forgot my lunches :smile::smiley::joy:
 
 ---
 
