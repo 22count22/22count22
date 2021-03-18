@@ -130,7 +130,7 @@
 <table>
 <tr>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+      <a href="https://stackoverflow.com/search?q=attributes+schema+node+js">
         <img src="./img/stackoverflow-1.png"
         width="48" height="48" alt="stackoverflow" />
       </a>
