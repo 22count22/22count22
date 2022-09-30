@@ -1,6 +1,6 @@
 # bonjour!
 
-## Hello world! I'm  Chiok Zechariah
+## Hello world! I'm  Chiok Riak M Wang
 
 <a href="#22count22-title">
   <img src="https://github-readme-stats.vercel.app/api?username=22count22&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
